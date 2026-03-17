@@ -1,0 +1,1 @@
+This is a free AI document translator. Just paste your document here, and it will automatically translate into your desired language. It is free to use and has a very large contact window. It is using Gemini 2.5 flash lite for accuracy and instant speed. Just get your API key from pollination.ai and just do it 🙈
